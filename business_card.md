@@ -1,4 +1,3 @@
-Markdown
 ![Utah Logo](https://healthcare.utah.edu/rebrand/img/logos/uhealth-logo.svg)
 
 ## Sean P. Cornillie, Ph.D.
