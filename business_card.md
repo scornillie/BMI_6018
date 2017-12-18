@@ -5,7 +5,7 @@ Markdown
  Research Associate of [Medicinal Chemistry](http://pharmacy.utah.edu/medchem/)
 
 * Phone: 248-486-3854
-* email: <seancornillie@gmail.com>
+* e-mail: <seancornillie@gmail.com>
 
 
 
